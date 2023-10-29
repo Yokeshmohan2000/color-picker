@@ -1,0 +1,37 @@
+body{
+display: flex;
+justify-content: center;
+align-items: center;height:100vh;
+text-align: center;
+}
+
+.button-style{
+    padding: 10px;
+   
+}
+button{
+    padding: 30px 10px 30px 10px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+#button-1{
+    background-color: #e0e0e0;
+}
+#button-2{
+    background-color: #6fcf97;
+}
+#button-3{
+    background-color: #56ccf2;
+}
+#button-4{
+    background-color: #bb6bd9;
+}
+#color-name{
+    color: white;
+    background-color: black;
+    font-family:Arial, Helvetica, sans-serif;
+    /* padding: 1px 1px; */
+}
+.discription{
+    text-align: center;
+}
